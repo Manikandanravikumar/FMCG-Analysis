@@ -7,5 +7,5 @@ I have Learn Python, Numpy, Pandas, Matplotlib, Seaborn, Excel
 **3) Data Cleaning
 **4) Data Visualization
 
-Dataset location : https://drive.google.com/file/d/1NE2FNZAriU0FxpXODK6CRKyti40dPgdS/view?usp=sharing
+
 
